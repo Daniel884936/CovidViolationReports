@@ -1,0 +1,60 @@
+.nav-bg-red{
+    background-color: #f44336;
+}
+
+.report-title{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.form-design{
+    background-color: rgba(231, 231, 231, 0.712);
+    border-radius: 5px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.image-log{
+    height: 65px;
+    width: 100px;
+}
+
+.btn-style{
+    background: #f44336;
+}
+
+.info-form{
+    margin-top: 12px;
+}
+
+.icon-delete{
+    color: #f44336;
+}
+
+.icon-edit{
+    color: #476aa8;
+    cursor: pointer;
+}
+
+#tableReport{
+    display: none;
+    cursor: pointer;
+}
+
+#topOptionsTable{
+    display: none;
+}
+
+#tbody-hidden{
+    display: none;
+}
+
+.icon-done{
+    color: chartreuse;
+}
+
+.icon-cancel{
+    color: #f44336;
+}
